@@ -25,6 +25,9 @@ Install dependencies:
 Run the app:
 
     npm start
+preview of my app:    
+    <img width="536" height="461" alt="image" src="https://github.com/user-attachments/assets/59763300-8891-42cc-a39d-87b7b3e9a5d6" />
+
 
 ## 👨‍💻 Author
 Sabarna - IT Student at Anna University, MIT Campus
